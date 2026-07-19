@@ -1,0 +1,18 @@
+# Environments
+.env
+venv/
+ENV/
+env/
+
+# Chroma DB database folder
+chroma_db/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
